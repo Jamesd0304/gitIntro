@@ -1,0 +1,111 @@
+* {
+  box-sizing: border-box;
+}
+body {
+  /* background: lightblue; */
+}
+header {
+  text-align: center;
+  max-width: 100%;
+  /* border: solid 1px; */
+  padding: 1.5em;
+}
+nav {
+  /* border: solid 1px; */
+  margin: 1em auto;
+  width: 50%;
+  padding:0.5em;
+}
+h1{
+  text-align: center;
+  margin: 1em;
+  padding: 0.6em;
+  /* border: solid 1px; */
+}
+h2 {
+  text-align: center;
+  margin: 1.2em;
+  padding: 0.5em;
+  /* border: solid 1px; */
+}
+h3 {
+  text-align: center;
+  margin: 1.4em;
+  padding: 0.4em;
+  /* border: solid 1px; */
+}
+h4 {
+  text-align: center;
+  margin: 1.6em;
+  padding: 0.3em;
+  /* border: solid 1px; */
+}
+h5 {
+  text-align: center;
+  margin: 1.8em;
+  padding: 0.4em;
+  /* border: solid 1px; */
+}
+h6{
+  text-align: center;
+  margin: 2em;
+  padding: 0.4em;
+  /* border: solid 1px; */
+}
+p {
+  line-height: 21px;
+  padding: 1em;
+  margin-left: 1em;
+  width: 80%;
+}
+ul {
+    padding: 2em;
+    width: 50%;
+    margin:5px auto;
+    /* border:solid 1px; */
+    list-style: circle;
+}
+ol {
+  padding: 2em;
+  width: 50%;
+  margin:5px auto;
+  /* border: solid 1px; */
+  list-style: square;
+}
+li {
+  line-height: 18px;
+  padding: 2px;
+}
+blockquote {
+  margin: 1.5em;
+}
+form {
+  /* border: solid 1px; */
+  text-align: left;
+  margin-left: 20%;
+  padding: 3em;
+}
+form div {
+  padding: 0.5em;
+}
+table {
+  width: 100%;
+
+  text-align: center;
+}
+th{
+  text-align: center;
+  padding: 1em;
+}
+tr {
+  text-content: center;
+  padding: .3em;
+}td {
+  text-content: center;
+  padding: .1em;
+}
+footer {
+  text-align: center;
+  height: 50px;
+  padding: 1.5em;
+}
